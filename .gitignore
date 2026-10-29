@@ -1,0 +1,8 @@
+*.log
+.DS_Store
+node_modules/
+**/.vite/
+*.tsbuildinfo
+web/dist/
+web/build/
+dui/build/
